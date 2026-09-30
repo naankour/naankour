@@ -11,18 +11,9 @@ I'm looking for an **internship** where I can contribute to a technical team, le
 
 ## 🤝 Connect with me
 
-<p>
-  <a href="mailto:aankour.naziha.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/naziha-aankour/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/naankour">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
+📧 Email: aankour.naziha.dev@gmail.com
+💼 LinkedIn: Naziha Aankour
+💻 GitHub: @naankour
 
 <sub>🌻</sub>
 
