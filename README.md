@@ -15,13 +15,13 @@ I'm looking for an **internship** where I can contribute to a technical team, le
 
 * [**Inception**](https://github.com/naankour/42_Inception) - Multi-container Docker infrastructure with Nginx, WordPress and MariaDB, using networks and persistent volumes
 
-* [**42_IRC**](https://github.com/naankour/42_IRC) - Custom IRC server in C++ based on RFC 1459, supporting multiple simultaneous TCP connections
+* [**42_IRC**](https://github.com/noanjrd/42_IRC) - Custom IRC server in C++ based on RFC 1459, supporting multiple simultaneous TCP connections
 
-* [**42_Minishell**](https://github.com/naankour/42_Minishell) - Unix shell in C reproducing core Bash features, with processes, signals, pipes and I/O redirections
+* [**42_Minishell**](https://github.com/noanjrd/42_Minishell) - Unix shell in C reproducing core Bash features, with processes, signals, pipes and I/O redirections
 
 * [**42_Philosophers**](https://github.com/naankour/42_Philosophers) - Concurrent programming project using threads and mutexes to manage synchronization and shared resources
 
-* [**cub3D**](https://github.com/naankour/CUB3D) - Raycasting-based 3D graphics engine inspired by Wolfenstein 3D, with real-time rendering and event handling
+* [**cub3D**]([https://github.com/naankour/CUB3D](https://github.com/Saiisako/CUBE3D)) - Raycasting-based 3D graphics engine inspired by Wolfenstein 3D, with real-time rendering and event handling
 
 * [**so_long**](https://github.com/naankour/42_so_long) - 2D graphical game developed in C with MinilibX, featuring player movement, event handling and game logic
 
