@@ -1,4 +1,4 @@
-# Hi, I'm Naziha <sub>🌻</sub>
+# Hi, I'm Naziha<sub>🌻</sub>
 
 ### Software Engineering Student | 42 Nice
 
