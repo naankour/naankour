@@ -9,9 +9,7 @@ I enjoy understanding how things work, solving technical problems, and learning 
 
 I'm looking for an **internship** where I can contribute to a technical team, learn from experienced engineers, take on new challenges, and continue developing my skills.
 
-## 🤝 Connect with me
-
-## 🤝 Connect with me
+## Connect with me
 
 <p>
   <a href="mailto:aankour.naziha.dev@gmail.com">
