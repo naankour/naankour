@@ -17,7 +17,7 @@ I'm looking for an **internship** where I can contribute to a technical team, le
   <a href="mailto:aankour.naziha.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/naziha-aankour-750b582aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkc0lqRx0RguNsisFChrXNw%3D%3D/">
+  <a href="https://www.linkedin.com/in/naziha-aankour-750b582aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdOgarTroRYWucsdwhzMFCg%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/naankour">
