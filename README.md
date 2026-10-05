@@ -21,7 +21,7 @@ I'm looking for an **internship** where I can contribute to a technical team, le
 
 * [**42_Philosophers**](https://github.com/naankour/Philosophers) - Concurrent programming project using threads and mutexes to manage synchronization and shared resources
 
-* [**cub3D**]([https://github.com/naankour/CUB3D](https://github.com/Saiisako/CUBE3D)) - Raycasting-based 3D graphics engine inspired by Wolfenstein 3D, with real-time rendering and event handling
+* [**cub3D**](https://github.com/Saiisako/CUBE3D) - Raycasting-based 3D graphics engine inspired by Wolfenstein 3D, with real-time rendering and event handling
 
 * [**so_long**](https://github.com/naankour/so_long2) - 2D graphical game developed in C with MinilibX, featuring player movement, event handling and game logic
 
