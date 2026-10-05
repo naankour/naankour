@@ -24,9 +24,13 @@ A result isn't what you expected.
 
 So you dig deeper.
 
+I like things to be well structured.
+Clear steps, clean organization, one problem at a time.
+Because a complex system is just a lot of small, simple pieces that finally agree to work together.
+
 At **42**, I'm now exploring software engineering through hands-on projects,
 learning about systems programming, networking, web development and
-infrastructure. Along the way, I've collected a lot of segfaults, and a growing collection of `printf("here")`.
+infrastructure. Along the way, I've collected a lot of segfaults and a growing collection of `printf("here")`.
 
 ---
 
