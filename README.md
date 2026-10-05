@@ -1,41 +1,73 @@
-# Hi, I'm Naziha
+#  Hi, I'm Naziha 🌻
 
+🖥️ Software Engineering Student | 🎓 Student at 42 School
 
-### 🖥️ Software Engineering Student | 🎓 Student at 42 School
+### 🔬 Science taught me to investigate. Code taught me to build.
 
-I'm currently exploring different areas of technology through hands-on projects, including **software development, systems programming, networking, infrastructure, and web development**.
+I started my career as a **Medical Laboratory Technician**, where precision,
+observation and analytical thinking were part of my everyday work.
 
-I enjoy understanding how things work, solving technical problems, and learning by building practical projects. I'm currently exploring opportunities in **software engineering, cloud & infrastructure, and cybersecurity**.
+The lab taught me something that stayed with me: when you don't understand
+a result, you don't simply guess. You investigate.
 
-I'm looking for an **internship** where I can contribute to a technical team, learn from experienced engineers, take on new challenges, and continue developing my skills.
+You observe.
+You question.
+You test.
+You look for the cause.
 
-## Projects
+Then I discovered **Computer Science** and realized I enjoy doing exactly
+the same thing with code.
 
-* [**Transcendance**](https://github.com/naankour/Transcendance) - Full-stack web application developed with React, TypeScript, Node.js, and PostgreSQL, deployed using Docker Compose and multiple containerized services
+A program crashes.
+A connection fails.
+A result isn't what you expected.
 
-* [**Inception**](https://github.com/naankour/Inception) - Multi-container Docker infrastructure with Nginx, WordPress and MariaDB, using networks and persistent volumes
+So you dig deeper.
 
-* [**42_IRC**](https://github.com/noanjrd/42_IRC) - Custom IRC server in C++ based on RFC 1459, supporting multiple simultaneous TCP connections
+At **42**, I'm now exploring software engineering through hands-on projects,
+learning about systems programming, networking, web development and
+infrastructure. Along the way, I've collected a lot of segfaults, and a growing collection of `printf("here")`.
 
-* [**42_Minishell**](https://github.com/noanjrd/42_Minishell) - Unix shell in C reproducing core Bash features, with processes, signals, pipes and I/O redirections
+---
 
-* [**42_Philosophers**](https://github.com/naankour/Philosophers) - Concurrent programming project using threads and mutexes to manage synchronization and shared resources
+### 🧠 What I'm exploring
 
-* [**cub3D**](https://github.com/Saiisako/CUBE3D) - Raycasting-based 3D graphics engine inspired by Wolfenstein 3D, with real-time rendering and event handling
+I like understanding how the different layers of technology talk to each other
+(and sometimes refuse to):
 
-* [**so_long**](https://github.com/naankour/so_long2) - 2D graphical game developed in C with MinilibX, featuring player movement, event handling and game logic
+* ⚙️ **Systems Programming** — C, C++, Unix, processes & memory
+* 🌐 **Networking** — TCP/IP, sockets & client/server architectures
+* 🌍 **Web Development** — React, TypeScript, Node.js & PostgreSQL
+* 🐳 **Infrastructure** — Docker, Nginx & service architecture
+* 🔐 **Cybersecurity** — understanding systems, vulnerabilities & how to protect them
 
-## Connect with me
+---
 
-<p>
-  <a href="mailto:aankour.naziha.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/naziha-aankour-750b582aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdOgarTroRYWucsdwhzMFCg%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+### 🚀 Things I've built
+
+| Project | Technologies | What I explored |
+| ------- | ------------ | --------------- |
+| [**Transcendance**](https://github.com/naankour/Transcendance) | React · TypeScript · Node.js · PostgreSQL · Docker | Full-stack development & containerized services. Many moving parts, many ways to break. |
+| [**Inception**](https://github.com/naankour/Inception) | Docker · Nginx · WordPress · MariaDB | Infrastructure & service architecture. A container inside a container inside a headache. |
+| [**42_IRC**](https://github.com/noanjrd/42_IRC) | C++ · TCP/IP | Networking & concurrent connections. Many clients, one server, zero crashes (finally). |
+| [**42_Minishell**](https://github.com/noanjrd/42_Minishell) | C · Unix | Processes, signals, pipes & redirections. Building a shell to understand the shell. |
+| [**Philosophers**](https://github.com/naankour/Philosophers) | C · Threads · Mutexes | Concurrency & synchronization. Dinner for people who never learned to share forks. |
+| [**cub3D**](https://github.com/Saiisako/CUBE3D) | C · MinilibX | Raycasting-based 3D graphics engine inspired by Wolfenstein 3D, with real-time rendering and event handling |
+| [**so_long**](https://github.com/naankour/so_long2) | C · MinilibX | Graphics, events & game logic. My first game, and my first "just one more fix". |
+
+---
+
+### 🌱 What's next?
+
+I'm continuing to build my foundations in **Computer Science and
+Software Engineering**, while exploring where I want to specialize.
+
+I'm currently looking for an **internship** where I can contribute to real
+projects, learn from experienced engineers and keep challenging myself.
+
+<p align="center">
+  🌻 <i>Still learning. Still exploring. Still building.</i>
 </p>
 
 
-<sub>🌻</sub>
 
