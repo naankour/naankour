@@ -4,33 +4,10 @@
 
 ### 🔬 Science taught me to investigate. Code taught me to build.
 
-I started my career as a **Medical Laboratory Technician**, where precision,
-observation and analytical thinking were part of my everyday work.
+I started my career as a **Medical Laboratory Technician**, where precision, observation, and analytical thinking were part of my everyday work.  
+Then I discovered **Computer Science** and realized I enjoy applying those same skills to code: breaking complex problems into smaller pieces and building solutions step by step.  
 
-The lab taught me something that stayed with me: when you don't understand
-a result, you don't simply guess. You investigate.
-
-You observe.
-You question.
-You test.
-You look for the cause.
-
-Then I discovered **Computer Science** and realized I enjoy doing exactly
-the same thing with code.
-
-A program crashes.
-A connection fails.
-A result isn't what you expected.
-
-So you dig deeper.
-
-I like things to be well structured.
-Clear steps, clean organization, one problem at a time.
-Because a complex system is just a lot of small, simple pieces that finally agree to work together.
-
-At **42**, I'm now exploring software engineering through hands-on projects,
-learning about systems programming, networking, web development and
-infrastructure. Along the way, I've collected a lot of segfaults and a growing collection of `printf("here")`.
+At **42**, I'm exploring software engineering through hands-on projects in systems programming, networking, web development, and infrastructure — along the way, collecting a few segfaults and a growing collection of `printf("here")`.
 
 ---
 
