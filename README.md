@@ -7,7 +7,7 @@
 I started my career as a **Medical Laboratory Technician**, where precision, observation, and analytical thinking were part of my everyday work.  
 Then I discovered **Computer Science** and realized I enjoy applying those same skills to code: breaking complex problems into smaller pieces and building solutions step by step.  
 
-At **42**, I'm exploring software engineering through hands-on projects in systems programming, networking, web development, and infrastructure — along the way, collecting a few segfaults and a growing collection of `printf("here")`.
+At **42**, I'm exploring software engineering through hands-on projects in systems programming, networking, web development, and infrastructure, along the way, collecting a few segfaults and a growing collection of `printf("here")`.
 
 ---
 
